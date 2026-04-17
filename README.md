@@ -2,7 +2,7 @@
 
 - **Course:** Machine Learning 2  
 - **Professor:** Jan Nagler  
-- **Group 1:** Cui (Cathy) Yu, Shravani Mahadeshwar, Priya Botsa, Marc Hayes, Shaonan Feng, Di Yang
+- **Members:** Cui (Cathy) Yu, Shravani Mahadeshwar, Priya Botsa, Marc Hayes, Shaonan Feng, Di Yang
   
 ---
 
