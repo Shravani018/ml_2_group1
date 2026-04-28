@@ -17,6 +17,7 @@ We analyze two datasets using Sparse Random Projections and evaluate classificat
 ---
 
 **Assignment 2: Clustering and Kernels**
+
 We compare clustering algorithms and kernel SVMs across two datasets, evaluating structure discovery and classification performance under different model assumptions and evaluation metrics.
 
 **Datasets used:**
