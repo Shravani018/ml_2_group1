@@ -3,4 +3,8 @@ matplotlib
 scikit-learn
 Pillow
 pandas
-ucimlrepo 
+ucimlrepo
+scipy
+seaborn
+hdbscan
+umap-learn
