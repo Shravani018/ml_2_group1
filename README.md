@@ -25,3 +25,17 @@ We compare clustering algorithms and kernel SVMs across two datasets, evaluating
 - Heart Disease (UCI, ID 45): 303 patient records with 13 clinical features, binary disease diagnosis target
 
 ---
+
+**Assignment 3: Regularization and Distances**
+
+Study of regularization methods and sequence clustering using distance-based representations.
+
+**Topics**
+- Ridge, LASSO, and ElasticNet regularization on Human Activity Recognition data
+- Hierarchical clustering and HDBSCAN on DNA-like sequences using Euclidean and Hamming distances
+
+**Datasets used:**
+- **HAR Dataset:** 561-feature smartphone sensor activity dataset
+- **DNA-like Sequence Dataset:** Synthetic nucleotide sequences analysed with k-mer and Hamming representations
+
+---
