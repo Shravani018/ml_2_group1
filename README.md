@@ -29,8 +29,6 @@ We compare clustering algorithms and kernel SVMs across two datasets, evaluating
 **Assignment 3: Regularization and Distances**
 
 Study of regularization methods and sequence clustering using distance-based representations.
-
-**Topics**
 - Ridge, LASSO, and ElasticNet regularization on Human Activity Recognition data
 - Hierarchical clustering and HDBSCAN on DNA-like sequences using Euclidean and Hamming distances
 
@@ -39,3 +37,14 @@ Study of regularization methods and sequence clustering using distance-based rep
 - **DNA-like Sequence Dataset:** Synthetic nucleotide sequences analysed with k-mer and Hamming representations
 
 ---
+
+**Assignment 4: Markov Chain Monte Carlo (MCMC)**
+
+Implemented a Bayesian SIRD epidemic model using PyMC and MCMC to infer mortality rate (μ) from noisy epidemic data.
+- SIRD differential equation modeling
+- Bayesian inference with MCMC sampling
+- Posterior and convergence analysis
+- Reduced-observation model comparison
+
+**Datasets used:**
+- Synthetic noisy SIRD epidemic dataset
