@@ -51,8 +51,4 @@ Implemented a Bayesian SIRD epidemic model using PyMC and MCMC to infer mortalit
 
 ---
 
-**Assignment 5: UNO Agent Matchup**
-
-[Repo](https://github.com/Shravani018/uno_assignment5)
-
----
+[**Assignment 5: UNO Agent Matchup**](https://github.com/Shravani018/uno_assignment5)
